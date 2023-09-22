@@ -61,6 +61,11 @@
 .mb-4 {
     color: black;
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}
 /*End Jumbotron*/
 
 /*About Us*/
